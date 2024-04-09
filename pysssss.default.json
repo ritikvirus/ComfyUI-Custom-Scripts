@@ -2,6 +2,6 @@
 	"name": "CustomScripts",
 	"logging": false,
 	"workflows": {
-		"directory": "/home/ubuntu/user_data/comfyui/input"
+		"directory": "/home/ubuntu/user_data/comfyui/workflows"
 	}
 }
